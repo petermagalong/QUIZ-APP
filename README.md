@@ -21,6 +21,20 @@ A simple and interactive Quiz App built with **React** and **Vite**. This projec
 
 ---
 
+## 📸 Screenshots
+
+Here’s a preview of the app:
+
+<p align="center">
+  <img src="./screenShots/screenshot1.png" alt="Quiz App Screenshot 1" width="45%"/>
+  &nbsp;
+  <img src="./screenShots/screenshot2.png" alt="Quiz App Screenshot 2" width="45%"/>
+</p>
+
+*(Add more screenshots in the `screenShots/` folder and update the paths here as needed.)*
+
+---
+
 ## 📦 Installation
 
 Clone the repository:
